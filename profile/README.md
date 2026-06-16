@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="700" alt="Frame 105 (1)" src="https://github.com/user-attachments/assets/617b388b-e9fa-4f20-aa26-6a1f9fd43b3c" />
+<img width="700" alt="Screenshot 2026-06-16 at 19 00 43" src="https://github.com/user-attachments/assets/ea4c8795-a66a-4231-b51b-3b8cb7f7636a" />
+
 
 # 株式会社メイツ
 
